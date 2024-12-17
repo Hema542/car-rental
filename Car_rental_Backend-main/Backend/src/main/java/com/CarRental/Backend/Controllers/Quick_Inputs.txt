@@ -1,0 +1,32 @@
+{
+    "interestRate":4.5,
+    "duration":60,
+    "userID":1,
+    "carId":1
+}
+
+{
+    "customerName": "John Doe",
+    "customerStreet1": "123 Main St",
+    "customerStreet2": "Apt 4B",
+    "customerCity": "New York",
+    "customerState": "NY",
+    "customerCountry": "USA",
+    "customerZipCode": "10001",
+    "customerEmail": "johndoe@example.com",
+    "customerpassword": "securepassword"
+}
+
+
+{
+    "carMake": "Tesla",
+    "carModel": "Model S",
+    "carVersion": "Long Range",
+    "carType": "Electric",
+    "carGross": 80000,
+    "carNett": 75000,
+    "carCo2Emission": 0,
+    "carDistance": 300,
+    "carMileage": 15000,
+    "carAvailable": true
+}
